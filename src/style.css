@@ -1,0 +1,38 @@
+.main{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    padding-left: 60px;
+}
+.left{
+
+border-right: 4px solid black;
+height: auto;
+margin-top: 50px;
+
+
+
+}
+.right{
+ 
+   padding-right: 10px;
+}
+h2{
+   padding-left: 10px;
+   
+}
+p{
+    box-sizing: border-box;
+    margin: 0;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 26px;
+    color: #1E1E1E;
+    padding: 15px 3px;
+}
+h4{
+    padding-left: 10px;
+}
+h3{
+    padding-left: 10px;
+}
